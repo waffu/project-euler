@@ -1,0 +1,6 @@
+calculator
+
+n!/((n - m)!*m!)
+
+n=40
+m=20
